@@ -7,6 +7,6 @@ DCC-GARCH for dynamic correlations,
 Granger causality for volatility transmission , 
 Risk metrics (VaR, ES, Sharpe Ratio)
 
-Key findings show strong correlation between N225 and BVSP, suggesting limited diversification benefits, while SSCI exhibits distinct behavior with higher independent risk. Granger causality tests identify significant volatility spillovers between markets, particularly from N225 to BVSP. Risk analysis through Value at Risk (VaR) and Expected Shortfall (ES) quantifies potential losses, with Sharpe Ratios objectively comparing performance—BVSP emerges as the optimal investment with the highest risk-adjusted returns.
+Visualizations including correlation plots and density distributions make complex relationships accessible, while a comprehensive CSV report summarizes key metrics. This end-to-end analysis demonstrates how advanced time series techniques can extract actionable intelligence from market data, supporting better investment decisions and risk management.
 
-The project showcases professional-grade financial analytics using R's rugarch, vars, and ggplot2 packages, providing a template for analyzing any set of financial time series. At exactly 300 words, this description concisely communicates the scope, methods, and value of the analysis while highlighting its practical applications for market participants.
+The project showcases professional-grade financial analytics using R's rugarch, vars, and ggplot2 packages, providing a template for analyzing any set of financial time series.
