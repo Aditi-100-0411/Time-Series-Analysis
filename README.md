@@ -1,4 +1,4 @@
-# Time-Series-Analysis
+# MarketPulse-Analytics
 Time Series Analysis of Global Stock Indices: Uncovering Market Dynamics. 
 
 My methodology combines:  
